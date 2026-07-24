@@ -11,7 +11,7 @@
 
 🎓 Second Year Computer Science Engineering Student at **ABES Engineering College**
 
-📚 First Year CGPA: **8.89**
+📚 First Year YGPA: **8.89**
 
 💻 Passionate about
 - Data Structures & Algorithms
@@ -37,7 +37,6 @@
 
 ### Languages
 - C++
-- C
 - HTML
 - CSS
 - JavaScript
