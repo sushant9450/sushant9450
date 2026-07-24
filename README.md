@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-🎓 First Year Computer Science Engineering Student at **ABES Engineering College**
+🎓 Second Year Computer Science Engineering Student at **ABES Engineering College**
 
 📚 First Year CGPA: **8.89**
 
@@ -19,6 +19,7 @@
 - Problem Solving
 - C++
 - Web Development
+- 
 
 🌱 Currently Learning
 - Advanced DSA
