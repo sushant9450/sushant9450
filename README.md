@@ -36,7 +36,7 @@
 
 ## 🛠 Tech Stack
 
-### Languages
+### Top Languages
 - C++
 - HTML
 - CSS
