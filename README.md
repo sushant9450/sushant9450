@@ -7,6 +7,13 @@
 
 ---
 
+<!-- DIGITAL PROFILE BANNER -->
+<p align="center">
+  <img src="./assets/profile-dashboard.png" width="100%" alt="Suhant Singh Digital Profile" />
+</p>
+
+---
+
 ## 🚀 About Me
 
 🎓 Second Year Computer Science Engineering Student at **ABES Engineering College**
@@ -42,12 +49,11 @@
 - CSS
 - JavaScript
 - Python
-### Frameworks & Libraries
 
+### Frameworks & Libraries
 - React
 
 ### Concepts
-
 - OOPS
 
 ### Tools
@@ -65,9 +71,11 @@
 ## 📈 Competitive Programming
 
 🏆 CodeChef
+
 https://www.codechef.com/users/ss_25_cse_0192
 
 💛 LeetCode
+
 https://leetcode.com/u/Sushant_Singh009/
 
 ---
@@ -75,6 +83,7 @@ https://leetcode.com/u/Sushant_Singh009/
 ## 🌐 Connect With Me
 
 💼 LinkedIn
+
 https://www.linkedin.com/in/sushant-singh-37551238b
 
 ---
@@ -83,15 +92,15 @@ https://www.linkedin.com/in/sushant-singh-37551238b
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suhant-Singh&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhant-Singh&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Suhant-Singh&theme=tokyonight"/>
 
 </p>
 
