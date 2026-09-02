@@ -19,12 +19,13 @@
 - Problem Solving
 - C++
 - Web Development
-- 
+- OOPS
 
 🌱 Currently Learning
 - Advanced DSA
 - System Design Basics
 - Full Stack Development
+- OOPS
 
 🎯 Goal
 - Crack top Software Engineering internships
@@ -40,6 +41,14 @@
 - HTML
 - CSS
 - JavaScript
+- Python
+### Frameworks & Libraries
+
+- React
+
+### Concepts
+
+- OOPS
 
 ### Tools
 - Git
@@ -47,6 +56,9 @@
 - VS Code
 - Linux
 - Windows
+- N8n
+- IBM BOB
+- Tableau
 
 ---
 
