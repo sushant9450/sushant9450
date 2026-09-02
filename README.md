@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suhant Singh</h1>
-<h3 align="center">Computer Science Engineering Student | Competitive Programmer | C++ Developer</h3>
+
+<h3 align="center">
+Computer Science Engineering Student | Competitive Programmer | C++ Developer
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suhant-Singh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-<!-- DIGITAL PROFILE BANNER -->
-<p align="center">
-  <img src="./assets/profile-dashboard.png" width="100%" alt="Suhant Singh Digital Profile" />
 </p>
 
 ---
@@ -20,7 +16,8 @@
 
 📚 First Year YGPA: **8.89**
 
-💻 Passionate about
+### 💻 Passionate About
+
 - Data Structures & Algorithms
 - Competitive Programming
 - Problem Solving
@@ -28,13 +25,15 @@
 - Web Development
 - OOPS
 
-🌱 Currently Learning
+### 🌱 Currently Learning
+
 - Advanced DSA
 - System Design Basics
 - Full Stack Development
 - OOPS
 
-🎯 Goal
+### 🎯 Goals
+
 - Crack top Software Engineering internships
 - Become a 5★ CodeChef Programmer
 - Solve 1000+ LeetCode Problems
@@ -43,20 +42,24 @@
 
 ## 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
+
 - C++
 - HTML
 - CSS
 - JavaScript
 - Python
 
-### Frameworks & Libraries
+### ⚛️ Frameworks & Libraries
+
 - React
 
-### Concepts
+### 🧠 Concepts
+
 - OOPS
 
-### Tools
+### 🛠️ Tools
+
 - Git
 - GitHub
 - VS Code
@@ -70,21 +73,21 @@
 
 ## 📈 Competitive Programming
 
-🏆 CodeChef
+### 🏆 CodeChef
 
-https://www.codechef.com/users/ss_25_cse_0192
+[Visit My CodeChef Profile](https://www.codechef.com/users/ss_25_cse_0192)
 
-💛 LeetCode
+### 💛 LeetCode
 
-https://leetcode.com/u/Sushant_Singh009/
+[Visit My LeetCode Profile](https://leetcode.com/u/Sushant_Singh009/)
 
 ---
 
 ## 🌐 Connect With Me
 
-💼 LinkedIn
+### 💼 LinkedIn
 
-https://www.linkedin.com/in/sushant-singh-37551238b
+[Connect on LinkedIn](https://www.linkedin.com/in/sushant-singh-37551238b)
 
 ---
 
@@ -92,15 +95,23 @@ https://www.linkedin.com/in/sushant-singh-37551238b
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Suhant-Singh&show_icons=true&theme=tokyonight"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Suhant-Singh&show_icons=true&theme=tokyonight"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhant-Singh&layout=compact&theme=tokyonight"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhant-Singh&layout=compact&theme=tokyonight"
+  />
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Suhant-Singh&theme=tokyonight"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Suhant-Singh&theme=tokyonight"
+  />
 
 </p>
 
@@ -108,8 +119,12 @@ https://www.linkedin.com/in/sushant-singh-37551238b
 
 ## 💡 Quote
 
-> "Consistency beats motivation."
+> **"Consistency beats motivation."**
 
 ---
 
+<p align="center">
+
 ⭐ Thanks for visiting my profile!
+
+</p>
