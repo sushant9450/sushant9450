@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suhant Singh</h1>
-
-<h3 align="center">
-Computer Science Engineering Student | Competitive Programmer | C++ Developer
-</h3>
+<h3 align="center">Computer Science Engineering Student | Competitive Programmer | C++ Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Suhant-Singh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -16,8 +13,7 @@ Computer Science Engineering Student | Competitive Programmer | C++ Developer
 
 📚 First Year YGPA: **8.89**
 
-### 💻 Passionate About
-
+💻 Passionate about
 - Data Structures & Algorithms
 - Competitive Programming
 - Problem Solving
@@ -25,15 +21,13 @@ Computer Science Engineering Student | Competitive Programmer | C++ Developer
 - Web Development
 - OOPS
 
-### 🌱 Currently Learning
-
+🌱 Currently Learning
 - Advanced DSA
 - System Design Basics
 - Full Stack Development
 - OOPS
 
-### 🎯 Goals
-
+🎯 Goal
 - Crack top Software Engineering internships
 - Become a 5★ CodeChef Programmer
 - Solve 1000+ LeetCode Problems
@@ -42,24 +36,21 @@ Computer Science Engineering Student | Competitive Programmer | C++ Developer
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-
+### Languages
 - C++
 - HTML
 - CSS
 - JavaScript
 - Python
-
-### ⚛️ Frameworks & Libraries
+### Frameworks & Libraries
 
 - React
 
-### 🧠 Concepts
+### Concepts
 
 - OOPS
 
-### 🛠️ Tools
-
+### Tools
 - Git
 - GitHub
 - VS Code
@@ -73,21 +64,18 @@ Computer Science Engineering Student | Competitive Programmer | C++ Developer
 
 ## 📈 Competitive Programming
 
-### 🏆 CodeChef
+🏆 CodeChef
+https://www.codechef.com/users/ss_25_cse_0192
 
-[Visit My CodeChef Profile](https://www.codechef.com/users/ss_25_cse_0192)
-
-### 💛 LeetCode
-
-[Visit My LeetCode Profile](https://leetcode.com/u/Sushant_Singh009/)
+💛 LeetCode
+https://leetcode.com/u/Sushant_Singh009/
 
 ---
 
 ## 🌐 Connect With Me
 
-### 💼 LinkedIn
-
-[Connect on LinkedIn](https://www.linkedin.com/in/sushant-singh-37551238b)
+💼 LinkedIn
+https://www.linkedin.com/in/sushant-singh-37551238b
 
 ---
 
@@ -95,23 +83,15 @@ Computer Science Engineering Student | Competitive Programmer | C++ Developer
 
 <p align="center">
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Suhant-Singh&show_icons=true&theme=tokyonight"
-  />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhant-Singh&layout=compact&theme=tokyonight"
-  />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-  <img
-    src="https://streak-stats.demolab.com?user=Suhant-Singh&theme=tokyonight"
-  />
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
 </p>
 
@@ -119,12 +99,9 @@ Computer Science Engineering Student | Competitive Programmer | C++ Developer
 
 ## 💡 Quote
 
-> **"Consistency beats motivation."**
+> "Consistency beats motivation."
 
 ---
 
-<p align="center">
-
 ⭐ Thanks for visiting my profile!
-
-</p>
+make it like digital and give me the output of this code in pictur format
