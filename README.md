@@ -56,9 +56,9 @@
 - VS Code
 - Linux
 - Windows
-- N8n
-- IBM BOB
-- Tableau
+- n8n
+- IBM BOb
+- TABLEAU
 
 ---
 
